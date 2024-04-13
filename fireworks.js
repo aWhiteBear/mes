@@ -161,3 +161,6 @@ window.onfocus = function() {
 window.onblur = function() {
     clearInterval(Launch.timer);
 };
+
+
+export const arr = [1,2,3]
